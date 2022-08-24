@@ -8,4 +8,3 @@ sentence3 = """
 파이썬은 쉬워요
 """
 print(sentence3)
-
